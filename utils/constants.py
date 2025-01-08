@@ -1,0 +1,1 @@
+url_base = "https://ffdecks.com/card/{}"
